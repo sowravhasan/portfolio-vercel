@@ -31,25 +31,6 @@ Professional WordPress developer and website designer freelancer specializing in
 - Mobile-first responsive design
 - Fast loading performance
 
-## 🚀 Deployment
-
-### GitHub Pages
-1. Fork this repository
-2. Go to Settings > Pages
-3. Select source branch (main/master)
-4. Your site will be available at `https://sowravhasan.github.io/portfolio/`
-
-### Netlify
-1. Connect your GitHub repository to Netlify
-2. Set build command: (leave empty for static sites)
-3. Set publish directory: `/` (root)
-4. Deploy automatically on git push
-
-### Vercel
-1. Import project from GitHub
-2. No build configuration needed
-3. Deploy with one click
-
 ## 📞 Contact
 - **Email:** sowravhasan101@gmail.com
 - **WhatsApp:** +8801882408643
