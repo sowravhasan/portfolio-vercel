@@ -5,7 +5,7 @@
 ## 🚀 Live Demo
 - **Netlify:** [https://sowrav-portfolio.netlify.app/](https://sowrav-portfolio.netlify.app/)
 - **GitHub Pages:** [https://sowravhasan.github.io/portfolio/](https://sowravhasan.github.io/portfolio/)
-- **Vercel:** [https://sowrav-portfolio.vercel.app/](https://sowrav-portfolio.vercel.app/)
+- **Vercel:** [https://sowravhasan.vercel.app/](https://sowravhasan.vercel.app/)
 
 ## 👨‍💻 About
 Professional WordPress developer and website designer freelancer specializing in:
@@ -37,7 +37,7 @@ Professional WordPress developer and website designer freelancer specializing in
 1. Fork this repository
 2. Go to Settings > Pages
 3. Select source branch (main/master)
-4. Your site will be available at `https://username.github.io/repository-name/`
+4. Your site will be available at `https://sowravhasan.github.io/portfolio/`
 
 ### Netlify
 1. Connect your GitHub repository to Netlify
